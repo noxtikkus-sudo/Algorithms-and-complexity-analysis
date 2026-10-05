@@ -1,4 +1,4 @@
-public class Task2 {
+public class SecondTask {
 
     public static int findMax(int[] array, int index) {
         if (index == array.length - 1) {

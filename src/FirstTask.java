@@ -1,4 +1,4 @@
-public class Task1 {
+public class FirstTask {
 
     public static int money(int first, int difference, int n) {
         if (n == 0) {
